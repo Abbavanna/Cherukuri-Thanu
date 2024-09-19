@@ -1,8 +1,7 @@
-<div align="center">
-  <img src="https://github.com/Cherukuri-Thanu/Cherukuri-Thanu/assets/167354871/243fc964-5c71-42a7-9c3b-b296dae1d668" alt="Github_Header">
-</div>
-
-<h3 align="center">Hi👋, I'm Thanuja Cherukuri</h3>
+<p align="center">
+  <img src="https://imgur.com/Fb7HFJb.png" width=900 style="display: block; margin: 0 auto"/>
+</p>
+<h3 align="center">
 <!-- <h4 align="center">Exploring the World Through Data</h4> -->
 
 <div align="center">

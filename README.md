@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/Fb7HFJb.png" width=900 style="display: block; margin: 0 auto"/>
+  <img src="https://imgur.com/GvTarMz.png" width=1000 style="display: block; margin: 0 auto"/>
 </p>
 <h3 align="center">
 <!-- <h4 align="center">Exploring the World Through Data</h4> -->
